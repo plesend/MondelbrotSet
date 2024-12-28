@@ -1,0 +1,10 @@
+D:\лабораторные\ооп\lab15\Fractal\Fractal\obj\Debug\Fractal.csproj.AssemblyReference.cache
+D:\лабораторные\ооп\lab15\Fractal\Fractal\obj\Debug\Fractal.Form1.resources
+D:\лабораторные\ооп\lab15\Fractal\Fractal\obj\Debug\Fractal.Properties.Resources.resources
+D:\лабораторные\ооп\lab15\Fractal\Fractal\obj\Debug\Fractal.csproj.GenerateResource.cache
+D:\лабораторные\ооп\lab15\Fractal\Fractal\obj\Debug\Fractal.csproj.CoreCompileInputs.cache
+D:\лабораторные\ооп\lab15\Fractal\Fractal\bin\Debug\Fractal.exe.config
+D:\лабораторные\ооп\lab15\Fractal\Fractal\bin\Debug\Fractal.exe
+D:\лабораторные\ооп\lab15\Fractal\Fractal\bin\Debug\Fractal.pdb
+D:\лабораторные\ооп\lab15\Fractal\Fractal\obj\Debug\Fractal.exe
+D:\лабораторные\ооп\lab15\Fractal\Fractal\obj\Debug\Fractal.pdb
